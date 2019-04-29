@@ -1,5 +1,5 @@
 # Books-Management (simple-python-API)
-This is simple Books-Management API for handling books.
+This is simple python API for handling books.
 
 Run api.py file and go to your browser to add/del/get the list of books.
 
