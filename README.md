@@ -1,5 +1,5 @@
-# simple_python_API
-This is simple python API for handling Books.
+# Books-Management (simple-flask-API)
+This is simple Books-Management API for handling books using flask .
 
 Run api.py file and go to your browser to add/del/get the list of books.
 
